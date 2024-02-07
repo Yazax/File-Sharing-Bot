@@ -2,8 +2,7 @@
 pyrogram
 TgCrypto
 pyromod==1.5
-# --- For-Database ------------ #
-python -m pip install "pymongo[srv]"
+# --- For-Database ----------- #
 pymongo
 dnspython
 # --- For-Web-Response ------- #
